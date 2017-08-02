@@ -1,4 +1,8 @@
 # tensorflow-image-classifier
+<img src="https://cdn-images-1.medium.com/max/800/0*LDGNE2IRJOFFcJ3s.png"/> <\br>
+Described here at the bottom half:<br/>
+https://medium.com/@m_ko/deep-learning-with-tensorflow-part-2-image-classification-58fcdffa7b84
+
 A generic image classifier program using [Tensorflow](https://www.tensorflow.org/) and the pre-trained Deep Learning Convolutional Neural Network model called [Inception](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html).
 
 This model has been pre-trained for the [ImageNet](http://image-net.org/) data, it can differentiate between 1,000 different classes
@@ -12,7 +16,8 @@ Make sure you have [Python](https://www.python.org/) installed, then install [Te
 <br/>
 
 ## Usage
-The usage is described in this article at the bottom half, simply follow the steps:
+
+The usage is described in this article at the bottom half, simply follow the steps:<br/>
 https://medium.com/@m_ko/deep-learning-with-tensorflow-part-2-image-classification-58fcdffa7b84
 
 
