@@ -3,7 +3,7 @@
 <br/>
 Described here at the bottom half:<br/>
 https://medium.com/@m_ko/deep-learning-with-tensorflow-part-2-image-classification-58fcdffa7b84
-
+<br/><br/>
 A generic image classifier program using [Tensorflow](https://www.tensorflow.org/) and the pre-trained Deep Learning Convolutional Neural Network model called [Inception](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html).
 
 This model has been pre-trained for the [ImageNet](http://image-net.org/) data, it can differentiate between 1,000 different classes
@@ -20,7 +20,7 @@ Make sure you have [Python](https://www.python.org/) installed, then install [Te
 
 The usage is described in this article at the bottom half, simply follow the steps:<br/>
 https://medium.com/@m_ko/deep-learning-with-tensorflow-part-2-image-classification-58fcdffa7b84
-
+<br/>
 
 ## License
 MIT License
