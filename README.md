@@ -4,15 +4,15 @@
 Described here at the bottom half:<br/>
 https://medium.com/@m_ko/deep-learning-with-tensorflow-part-2-image-classification-58fcdffa7b84
 <br/><br/>
-A generic image classifier program using [Tensorflow](https://www.tensorflow.org/) and the pre-trained Deep Learning Convolutional Neural Network model called [Inception](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html).
+A generic image classifier program using Tensorflow (https://www.tensorflow.org/) and the pre-trained Deep Learning Convolutional Neural Network model called Inception (https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html).
 
-This model has been pre-trained for the [ImageNet](http://image-net.org/) data, it can differentiate between 1,000 different classes
+This model has been pre-trained for the  ImageNet (http://image-net.org/) data, it can differentiate between 1,000 different classes
 The program applies Transfer Learning to this existing model and re-trains it to classify a new set of images.
 
 This is a generic setup and can be used to classify almost any kind of image. 
 
 ## Installation
-Make sure you have [Python](https://www.python.org/) installed, then install [Tensorflow](https://www.tensorflow.org/install/) on your system, and clone this repo.
+Make sure you have Python (https://www.python.org/) installed, then install Tensorflow (https://www.tensorflow.org/install/) on your system, and clone this repo.
 
 <br/>
 
