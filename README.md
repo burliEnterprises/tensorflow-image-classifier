@@ -1,5 +1,5 @@
 # tensorflow-image-classifier
-<img src="https://cdn-images-1.medium.com/max/800/0*LDGNE2IRJOFFcJ3s.png"/>
+<img src="https://github.com/koflerm/tensorflow-image-classifier/blob/master/image.png?raw=true"/>
 <br/>
 Described here at the bottom half:<br/>
 https://medium.com/@m_ko/deep-learning-with-tensorflow-part-2-image-classification-58fcdffa7b84
