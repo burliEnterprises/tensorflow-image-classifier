@@ -22,6 +22,10 @@ The usage is described in this article at the bottom half, simply follow the ste
 https://medium.com/@m_ko/deep-learning-with-tensorflow-part-2-image-classification-58fcdffa7b84
 <br/>
 
+If you wanted to use a video as input and look at it frame-by-frame, check out this repository:
+https://github.com/koflerm/tensorflow-video-classifier
+
+</br>
 ## License
 MIT License
 
